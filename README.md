@@ -13,7 +13,7 @@ Hello, welcome to this lesson. Today I create html and css file for Fashion-webs
 > **STEP-2:**  enter the `Fashion-website-template` folder that appears <br/>
 > **STEP-3:**  open the folder you are in in a text editor <br/>
 > **STEP-4:**  run the  all the`index.html` files in the main folder <br/>
-> **STEP-5:**  to download the project as `.zip`  [here](https://github.com/cavidsuleyman/Drop-down-menu-templates/archive/refs/heads/master.zip) click <br/>
+> **STEP-5:**  to download the project as `.zip`  [here](https://github.com/cavidsuleyman/Fashion-website-template/archive/refs/heads/master.zip) click <br/>
 
 
 ## Technology
